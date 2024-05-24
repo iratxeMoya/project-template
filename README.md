@@ -45,7 +45,6 @@ docker-compose up
 | [`docker`](https://www.docker.com/) | Containerization technology | ^24.0.7 |
 
 ## Support
-Contact data team
 
 <a href=mailto:“iratxe.moya@gmail.com”>
     <img src='https://img.shields.io/badge/gmail-Sen_me_an_email?style=plastic&logo=gmail&label=%20&labelColor=blue&color=gray'>
