@@ -1,8 +1,5 @@
 
 <h1 align="center">
-  <br>
-  <a><img src="https://media.licdn.com/dms/image/C4E0BAQEwojyl4eb_Uw/company-logo_200_200/0/1668853948135/techsoulogy_logo?e=1724284800&v=beta&t=xv49st0d6PGhGj7aRZxqPkabvNWnh8b9MvoCUaJW4FA" alt="Markdownify" width="200" style="border-radius: 50%"></a>
-  <br>
   {PROJECT NAME}
   <br>
 </h1>
