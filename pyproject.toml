@@ -1,0 +1,53 @@
+[tool.poetry]
+name = "template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pylint = "^3.2.2"
+
+# Black configuration
+[tool.black]
+
+# pylint configuration
+[tool.pylint.main]
+
+[tool.pylint.basic]
+
+[tool.pylint.classes]
+
+[tool.pylint.design]
+
+[tool.pylint.exceptions]
+
+[tool.pylint.format]
+
+[tool.pylint.imports]
+
+[tool.pylint.logging]
+
+[tool.pylint."messages control"]
+
+[tool.pylint.method_args]
+
+[tool.pylint.miscellaneous]
+
+[tool.pylint.refactoring]
+
+[tool.pylint.reports]
+
+[tool.pylint.similarities]
+
+[tool.pylint.spelling]
+
+[tool.pylint.typecheck]
+
+[tool.pylint.variables]
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
