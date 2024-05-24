@@ -51,7 +51,7 @@ docker-compose up
 Contact data team
 
 <a href=mailto:“iratxe.moya@gmail.com”>
-    <img src='https://img.shields.io/badge/gmail-Sen_me_an_email?style=plastic&logo=gmail&label=%20&labelColor=red&color=gray'>
+    <img src='https://img.shields.io/badge/gmail-Sen_me_an_email?style=plastic&logo=gmail&label=%20&labelColor=blue&color=gray'>
 </a>
 
 ## Roadmap
