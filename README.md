@@ -50,8 +50,8 @@ docker-compose up
 ## Support
 Contact data team
 
-<a href='https://redmine.tappx.com/projects/prj-data/issues'>
-    <img src='https://img.shields.io/badge/redmine-Create%20an%20Issue-gray?style=plastic&logo=redmine&label=%20&labelColor=red&color=gray'>
+<a href=mailto:“iratxe.moya@gmail.com”>
+    <img src='https://img.shields.io/badge/gmail-Sen_me_an_email?style=plastic&logo=gmail&label=%20&labelColor=red&color=gray'>
 </a>
 
 ## Roadmap
@@ -63,9 +63,7 @@ Contact data team
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a><img src="https://ca.slack-edge.com/T3E28AGBS-U04QV9KNFHA-552be6d7a334-512" width="100px;" alt="Marcos Álvarez"/><br /><sub><b>Marcos Álvarez</b></sub></a><br/><a title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a><img src="https://ca.slack-edge.com/T3E28AGBS-U03JX368SQM-8253c1c3d0f9-512" width="100px;" alt="Iratxe Moya"/><br /><sub><b>Iratxe Moya</b></sub></a><br /><a title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a><img src="https://ca.slack-edge.com/T3E28AGBS-U06BW7DRFJ7-af3fea412bfb-72" width="100px;" alt="Alejandro Padilla"/><br /><sub><b>Alejandro Padilla</b></sub></a><br /><a title="Team Lead">💭</a></td>
     </tr>
   </tbody>
 </table>
